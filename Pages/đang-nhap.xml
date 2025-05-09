@@ -1,0 +1,23 @@
+<list><item>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;
+                &lt;/p&gt;&lt;p style="text-align: center; "&gt;&lt;span style="font-size: 18px;"&gt;
+                &lt;b&gt;&lt;span style="color: #FFFFFF; "&gt;Thông tin đăng nhập&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+                &lt;table style="margin: 0 auto; font-size: 18px;"&gt;
+                &lt;tbody&gt;
+                &lt;tr&gt;
+                   &lt;td style="text-align: right; padding: 10px;"&gt;&lt;span style="color: rgb(255, 255, 255); font-weight: bold;"&gt;Tên đăng nhập:&lt;/span&gt;&lt;/td&gt;
+                   &lt;td style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; "&gt;&lt;span style="font-weight: bold;"&gt;&lt;input type="text" name="username"&gt;&lt;/span&gt;&lt;/td&gt;
+                &lt;/tr&gt;  
+                                   
+                &lt;tr&gt;
+                   &lt;td style="text-align: right; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; "&gt;&lt;span style="color: rgb(255, 255, 255); font-weight: bold;"&gt;Mật khẩu:&lt;/span&gt;&lt;/td&gt;
+                   &lt;td style="padding: 10px;"&gt;&lt;input type="password" name="password"&gt;&lt;/td&gt;
+                &lt;/tr&gt;  
+                                 
+                &lt;tr&gt;
+                  &lt;td colspan="2" style="text-align: center; "&gt;
+                  &lt;div align="center"&gt;&lt;p&gt;
+                   &lt;/p&gt;&lt;/div&gt;
+                  &lt;input type="submit" value="Đăng nhập" style="font-size: 17px;"&gt;
+                
+                 &lt;/td&gt;&lt;/tr&gt;  &lt;/tbody&gt;&lt;/table&gt; &lt;p&gt;
+            &lt;/p&gt;</item></list>

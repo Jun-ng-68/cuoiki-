@@ -1,0 +1,112 @@
+<list><item>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;
+
+&lt;/p&gt;&lt;p style="text-align:center"&gt;
+&lt;span style="font-weight: bold;"&gt;&lt;span style="font-size: 22px;"&gt;
+
+ &lt;span style="color: rgb(255, 255, 255); "&gt;ĐĂNG KÝ THÀNH VIÊN
+&lt;/span&gt;&lt;/span&gt;
+
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;form action="#" name="dangky" method="post" style="text-align: center; "&gt;
+&lt;fieldset style="width: 600px; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; text-align: left; "&gt;
+      &lt;legend&gt; &lt;span style="font-weight: bold;"&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;
+      Thông tin cá nhân
+      &lt;/span&gt;
+      &lt;/span&gt;&lt;/legend&gt;
+ &lt;tablestyle="width: 100%;="" font-size:="" 18px;"=""&gt;&lt;span style="font-weight: bold;"&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;
+    
+      
+    Họ và tên: &lt;/span&gt;&lt;input type="text" name="username" style="width: 95%; "&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;
+      
+    
+   
+     
+      
+    Ngày sinh: &lt;/span&gt;&lt;select name="Ngay"&gt;
+&lt;option value="01"&gt; 01 
+&lt;/option&gt;&lt;option value="02"&gt; 02 
+&lt;/option&gt;&lt;option value="03"&gt; 03 
+&lt;/option&gt;&lt;option value="04"&gt; 04 
+&lt;/option&gt;&lt;option value="05"&gt; 05 
+&lt;/option&gt;&lt;option value="06"&gt; 06 
+&lt;/option&gt;&lt;option value="07"&gt; 07 
+&lt;/option&gt;&lt;option value="08"&gt; 08 
+&lt;/option&gt;&lt;option value="09"&gt; 09 
+&lt;/option&gt;&lt;option value="10"&gt; 10 
+&lt;/option&gt;&lt;option value="11"&gt; 11 
+&lt;/option&gt;&lt;option value="12"&gt; 12 
+&lt;/option&gt;&lt;option value="13"&gt; 13 
+&lt;/option&gt;&lt;option value="14"&gt; 14 
+&lt;/option&gt;&lt;option value="15"&gt; 15 
+&lt;/option&gt;&lt;option value="16"&gt; 16 
+&lt;/option&gt;&lt;option value="17"&gt; 17 
+&lt;/option&gt;&lt;option value="18"&gt; 18 
+&lt;/option&gt;&lt;option value="19"&gt; 19 
+&lt;/option&gt;&lt;option value="20"&gt; 20 
+&lt;/option&gt;&lt;option value="21"&gt; 21 
+&lt;/option&gt;&lt;option value="22"&gt; 22 
+&lt;/option&gt;&lt;option value="23"&gt; 23 
+&lt;/option&gt;&lt;option value="24"&gt; 24 
+&lt;/option&gt;&lt;option value="25"&gt; 25 
+&lt;/option&gt;&lt;option value="26"&gt; 26 
+&lt;/option&gt;&lt;option value="27"&gt; 27 
+&lt;/option&gt;&lt;option value="28"&gt; 28 
+&lt;/option&gt;&lt;option value="29"&gt; 29 
+&lt;/option&gt;&lt;option value="30"&gt; 30 
+&lt;/option&gt;&lt;option value="31"&gt; 31 
+&lt;/option&gt;&lt;/select&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;
+
+    Tháng: &lt;/span&gt;&lt;select name="Thang"&gt;
+    &lt;option value="01"&gt; 01 
+&lt;/option&gt;&lt;option value="02"&gt; 02 
+&lt;/option&gt;&lt;option value="03"&gt; 03 
+&lt;/option&gt;&lt;option value="04"&gt; 04 
+&lt;/option&gt;&lt;option value="05"&gt; 05 
+&lt;/option&gt;&lt;option value="06"&gt; 06 
+&lt;/option&gt;&lt;option value="07"&gt; 07 
+&lt;/option&gt;&lt;option value="08"&gt; 08 
+&lt;/option&gt;&lt;option value="09"&gt; 09 
+&lt;/option&gt;&lt;option value="10"&gt; 10 
+&lt;/option&gt;&lt;option value="11"&gt; 11 
+&lt;/option&gt;&lt;option value="12"&gt; 12 
+&lt;/option&gt;&lt;/select&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;
+     Năm: &lt;/span&gt;&lt;input type="text" name="năm" style="width: 60px; "&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;
+      
+    
+   
+    
+      
+       Giới tính: &lt;/span&gt;&lt;input type="radio" name="radGioiTinh" value="Nam" checked=""&gt;&lt;span style="color: rgb(255, 255, 255); "&gt; Nam
+                  &lt;/span&gt;&lt;input type="radio" name="radGioiTinh" value="Nữ"&gt;&lt;span style="color: rgb(255, 255, 255); "&gt; Nữ
+      
+    
+   
+    
+      
+       Địa chỉ: &lt;/span&gt;&lt;textarea name="address" rows="2" style="width: 95%; "&gt; 
+       &lt;/textarea&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;
+       
+    
+   
+    
+       Điện thoại: &lt;/span&gt;&lt;input type="tel" name="Điện thoại" style="width: 95%; "&gt;&lt;span style="color: rgb(255, 255, 255); "&gt; 
+    
+   
+    
+      
+      Email:
+      &lt;/span&gt;&lt;input type="email" name="email" style="width: 95%; "&gt;
+      
+    
+   
+      
+       &lt;input type="submit" value="Đăng ký" style="font-size: 17px; "&gt;
+        &lt;input type="reset" value="Hủy" style="font-size: 17px; "&gt;&lt;/span&gt;
+      
+   
+ 
+ &lt;/tablestyle="width:&gt;&lt;/fieldset&gt;
+&lt;p&gt;
+ &lt;/p&gt;&lt;/form&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;
+                &lt;/p&gt;</item></list>

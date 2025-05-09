@@ -1,0 +1,107 @@
+<list><item>&lt;p&gt;
+&lt;/p&gt;&lt;div&gt;
+    &lt;input type="text" size="36" name="tsearch" placeholder="Hãy nhập tên sách cần tìm ..."&gt;
+    &lt;input type="submit" value="Tìm sách" title="Tìm sách"&gt;&lt;/div&gt;&lt;div&gt;
+ &lt;div id="body" style="width: 100%; margin: 0; display: table;"&gt;
+   
+    &lt;article style="display: table-row;"&gt;&lt;aside id="left" style="display: table-cell; width: 200px; vertical-align: top; padding: 10px;"&gt;&lt;div style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #000000; border-right-color: #000000; border-bottom-color: #000000; border-left-color: #000000; border-top-left-radius: 5px 5px; border-top-right-radius: 5px 5px; border-bottom-right-radius: 5px 5px; border-bottom-left-radius: 5px 5px; margin-bottom: 10px; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; "&gt;&lt;p style="background: #000; color: white; padding: 5px; margin: 0;"&gt;&lt;span style="font-size: 18px; font-weight: bold;"&gt;Sách theo chủ đề&lt;/span&gt;&lt;/p&gt;
+                    &lt;ul style="list-style: none; padding: 5px; margin: 0;"&gt;
+                        &lt;li&gt;&lt;span style="font-size: 18px; font-weight: bold; color: #FFFFFF; "&gt; &lt;a href="#"&gt;&lt;span style="color: rgb(255, 255, 255);  "&gt;Chiêm Tinh Học&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;span style="font-size: 18px; font-weight: bold; color: #FFFFFF; "&gt; &lt;a href="#"&gt;&lt;span style="color: rgb(255, 255, 255);  "&gt;Thần Số Học&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;span style="font-size: 18px; font-weight: bold; color: #FFFFFF; "&gt; &lt;a href="#"&gt;&lt;span style="color: #FFFFFF; "&gt;Tarot&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+                &lt;div style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #000000; border-right-color: #000000; border-bottom-color: #000000; border-left-color: #000000; border-top-left-radius: 5px 5px; border-top-right-radius: 5px 5px; border-bottom-right-radius: 5px 5px; border-bottom-left-radius: 5px 5px; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; "&gt;
+                    &lt;p style="background-color: #000000; color: white; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; margin-top: 0px; margin-bottom: 0px; "&gt;&lt;span style="font-size: 18px; font-weight: bold; color: #FFFFFF; "&gt;Sách bán nhiều&lt;/span&gt;&lt;/p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;&lt;span style="font-size: 18px; font-weight: bold; color: #FFFFFF; "&gt; &lt;a href="#"&gt;&lt;span style="color: #FFFFFF; "&gt; Chiêm tinh học   &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;span style="font-size: 18px; font-weight: bold; color: #FFFFFF; "&gt; &lt;a href="#"&gt;&lt;span style="color: rgb(255, 255, 255);  "&gt; Tự học Tarot &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;span style="font-size: 18px; font-weight: bold; color: #FFFFFF; "&gt; &lt;a href="#"&gt;&lt;span style="color: rgb(255, 255, 255);  "&gt; Tổng quan về Tarot &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+                        &lt;li&gt;&lt;span style="font-size: 18px; font-weight: bold; color: #FFFFFF; "&gt; &lt;a href="#"&gt;&lt;span style="color: rgb(255, 255, 255);  "&gt; Mật mã 12 chòm sao&lt;/span&gt; &lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/aside&gt;
+
+            &lt;section style="display: table-cell; width: 520px; vertical-align: top; padding: 10px;"&gt;
+                &lt;h2 style="background: #000; color: white; text-align: center; padding: 10px; border-radius: 5px;"&gt;SÁCH MỚI&lt;/h2&gt;
+                &lt;div style="overflow: hidden;"&gt;
+                    &lt;div style="width: 180px; height: 260px; border: 1px dashed #000; float: left; margin: 5px; text-align: center; border-radius: 5px; padding: 5px;"&gt;
+                        &lt;div style="height: 50%; margin-bottom: 10px;"&gt;
+                   &lt;img width="131" height="131" alt="" class="art-lightbox" src="th.jpeg"&gt;
+&lt;/div&gt;
+                        &lt;h4 style="font-size: 14px; text-align: center; "&gt;&lt;span style="color: #FFFFFF; "&gt;Chiêm tinh học Nhập môn&lt;/span&gt;&lt;/h4&gt;
+                        &lt;p style="color: red; "&gt;&lt;span style="font-weight: bold; color: #FA5833; background-color: #3A301D; "&gt;249.000đ&lt;/span&gt;&lt;/p&gt;
+                        &lt;button style="background: #000; color: white; padding: 4px 8px; border: none; border-radius: 5px; font-size: 12px;"&gt;Chọn mua&lt;/button&gt;
+                    &lt;/div&gt;
+
+                    &lt;div style="width: 180px; height: 260px; border: 1px dashed #000; float: left; margin: 5px; text-align: center; border-radius: 5px; padding: 5px;"&gt;
+                        &lt;div style="height: 60%; margin-bottom: 10px;"&gt;&lt;img width="131" height="131" alt="" class="art-lightbox" src="sg-11134201-7rbld-ln3vlda0g7wa5c.jpeg" &gt;&lt;/div&gt;
+                        &lt;h4 style="font-size: 14px; text-align: center; "&gt;&lt;span style="color: #FFFFFF; "&gt;Tự học Tarot&lt;/span&gt;&lt;/h4&gt;
+                        &lt;p style="color: red; "&gt;&lt;span style="font-weight: bold; color: #E2341D; background-color: #3A301D; "&gt;119.000đ&lt;/span&gt;&lt;/p&gt;
+                        &lt;button style="background: #000; color: white; padding: 4px 8px; border: none; border-radius: 5px; font-size: 12px;"&gt;Chọn mua&lt;/button&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div style="width: 180px; height: 260px; border: 1px dashed #000; float: left; margin: 5px; text-align: center; border-radius: 5px; padding: 5px;"&gt;
+    &lt;div style="height: 50%; margin-bottom: 10px;"&gt;
+        &lt;img width="131" height="131" alt="" class="art-lightbox" src="6f38e054036d3f97a12b01e6508d4168.jpeg" &gt;\
+    &lt;/div&gt;
+    &lt;h4 style="font-size: 14px; text-align: center;"&gt;&lt;span style="color: #FFFFFF;"&gt;Thần Số Học Cơ Bản&lt;/span&gt;&lt;/h4&gt;
+    &lt;p style="color: red;"&gt;&lt;span style="font-weight: bold; color: #FA5833; background-color: #3A301D;"&gt;149.000đ&lt;/span&gt;&lt;/p&gt;
+    &lt;button style="background: #000; color: white; padding: 4px 8px; border: none; border-radius: 5px; font-size: 12px;"&gt;Chọn mua&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;div style="width: 180px; height: 260px; border: 1px dashed #000; float: left; margin: 5px; text-align: center; border-radius: 5px; padding: 5px;"&gt;
+    &lt;div style="height: 50%; margin-bottom: 10px;"&gt;&lt;img width="129" height="129" alt="" class="art-lightbox" src="vn-11134207-7r98o-lnktjzga7rvxec_483d29d17b9b49a7b91f5b1fb48c67e3_grande.jpg" &gt;
+        &lt;br&gt;
+    &lt;/div&gt;
+    &lt;h4 style="font-size: 14px; text-align: center;"&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Mật Mã Chòm Sao&lt;/span&gt;&lt;/h4&gt;
+    &lt;p style="color: red;"&gt;&lt;span style="font-weight: bold; color: #E2341D; background-color: #3A301D;"&gt;149.000đ&lt;/span&gt;&lt;/p&gt;
+    &lt;button style="background: #000; color: white; padding: 4px 8px; border: none; border-radius: 5px; font-size: 12px;"&gt;Chọn mua&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;div style="width: 180px; height: 260px; border: 1px dashed #000; float: left; margin: 5px; text-align: center; border-radius: 5px; padding: 5px;"&gt;
+    &lt;div style="height: 50%; margin-bottom: 10px;"&gt;&amp;nbsp;&lt;img width="81" height="127" alt="" class="art-lightbox" src="tu-dien-chiem-tinh-tong-quat-ve-12-chom-sao_66902_1.jpg"&gt;&lt;br&gt;
+    &lt;/div&gt;
+    &lt;h4 style="font-size: 14px; text-align: center; "&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;Từ Điển Chiêm Tinh&lt;/span&gt;&lt;/h4&gt;
+    &lt;p style="color: red;"&gt;&lt;span style="font-weight: bold; color: #FA5833; background-color: #3A301D;"&gt;89.000đ&lt;/span&gt;&lt;/p&gt;
+    &lt;button style="background: #000; color: white; padding: 4px 8px; border: none; border-radius: 5px; font-size: 12px;"&gt;Chọn mua&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;div style="width: 180px; height: 260px; border: 1px dashed #000; float: left; margin: 5px; text-align: center; border-radius: 5px; padding: 5px;"&gt;
+    &lt;div style="height: 50%; margin-bottom: 10px;"&gt;
+    &lt;img width="96" height="145" alt="" class="art-lightbox" src="thansohoc.jpeg"&gt;&amp;nbsp;&lt;br&gt;
+&lt;br&gt;
+    &lt;/div&gt;
+    &lt;h4 style="font-size: 14px; text-align: center;"&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;&lt;br&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4 style="font-size: 14px; text-align: center;"&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Giải Mã Thần Số Học&lt;/span&gt;&lt;/h4&gt;
+    &lt;p style="color: red;"&gt;&lt;span style="font-weight: bold; color: #E2341D; background-color: #3A301D;"&gt;119.000đ&lt;/span&gt;&lt;/p&gt;
+    &lt;button style="background: #000; color: white; padding: 4px 8px; border: none; border-radius: 5px; font-size: 12px;"&gt;Chọn mua&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;div style="width: 180px; height: 260px; border: 1px dashed #000; float: left; margin: 5px; text-align: center; border-radius: 5px; padding: 5px;"&gt;
+    &lt;div style="height: 50%; margin-bottom: 10px;"&gt;
+    &lt;img width="129" height="129" alt="" class="art-lightbox" src="th%20(1).jpeg" &gt;&amp;nbsp;&lt;br&gt;
+    &lt;/div&gt;
+    &lt;h4 style="font-size: 14px; text-align: center;"&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;&lt;br&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4 style="font-size: 14px; text-align: center;"&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;Lược Sử Thiên Văn Học&lt;/span&gt;&lt;br&gt;&lt;/h4&gt;
+    &lt;p style="color: red;"&gt;&lt;span style="font-weight: bold; color: #FA5833; background-color: #3A301D;"&gt;219.000đ&lt;/span&gt;&lt;/p&gt;
+    &lt;button style="background: #000; color: white; padding: 4px 8px; border: none; border-radius: 5px; font-size: 12px;"&gt;Chọn mua&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;div style="width: 180px; height: 260px; border: 1px dashed #000; float: left; margin: 5px; text-align: center; border-radius: 5px; padding: 5px;"&gt;
+    &lt;div style="height: 50%; margin-bottom: 10px;"&gt;&lt;img width="131" height="131" alt="" class="art-lightbox" src="7083-Tarot-va-Chiem-Tinh-1-600x602.jpg"&gt;
+        &lt;br&gt;
+    &lt;/div&gt;
+    &lt;h4 style="font-size: 14px; text-align: center;"&gt;&lt;span style="color: #FFFFFF;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4 style="font-size: 14px; text-align: center;"&gt;&lt;span style="color: #FFFFFF;"&gt;Tarot Và Chiêm Tinh&lt;/span&gt;&lt;/h4&gt;
+    &lt;p style="color: red;"&gt;&lt;span style="font-weight: bold; color: #E2341D; background-color: #3A301D;"&gt;129.000đ&lt;/span&gt;&lt;/p&gt;
+    &lt;button style="background: #000; color: white; padding: 4px 8px; border: none; border-radius: 5px; font-size: 12px;"&gt;Chọn mua&lt;/button&gt;
+&lt;/div&gt;
+
+
+ 
+
+            &lt;/section&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+              &lt;/p&gt;&lt;p&gt;
+                &lt;/p&gt;</item></list>
